@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvis178/hexlet-jest.git"
+  },
+  "author": "elvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvis178/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/elvis178/hexlet-jest#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
